@@ -45,9 +45,9 @@ Si nos diera error al instalarse, probablemente sería, porque en la máquina an
 
 ###2º parte - aplicación
 
-He creado una aplicación php que consiste en una calculadora web, bajo plantilla html gratuita de:
+He creado una aplicación php que consiste en una calculadora web, bajo plantilla html gratuita y libre de:
 
-        [Free Web Templates](http://freewebsitetemplates.com)
+        [Free Web Templates -- http://freewebsitetemplates.com]
 
 ![pantallazo 4](https://dl.dropbox.com/s/3mqff4mfeik3hyi/pantallazo4.jpg)
 
