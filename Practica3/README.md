@@ -127,7 +127,7 @@ Y ya sólo falta...
 
 Nos conectamos por ssh, y realizamos lo mismo que en el apartado anterior:
 
--PANTALLAZO 8
+![pantallazo8](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo8.png)
 
 Y ahora ejecutamos apache benchmark:
 
@@ -326,7 +326,7 @@ Hasta ahora, los tiempos han sido mejores los de ubuntu 12.04, así que vamos a 
     S.O -> Ubuntu server 12.04
     Configuración: 2 núcleos,  3.75 GB
     
--PANTALLAZO 9
+![pantallazo9](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo9.png)
 
         azureuser@ivubuntu4:~/Practicas/Practica2$ ab -n 1000 -c 5 http://127.0.0.1/calculadora/calculadora.php
         This is ApacheBench, Version 2.3 <$Revision: 655654 $>
@@ -389,7 +389,7 @@ Hasta ahora, los tiempos han sido mejores los de ubuntu 12.04, así que vamos a 
     S.O -> Ubuntu server 12.04
     Configuración: núcleo compartido,  0.75 GB
     
--PANTALLAZO 10
+![pantallazo10](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo10.png)
 
         azureuser@ivubuntu6:~/Practicas/Practica2$ ab -n 1000 -c 5 http://127.0.0.1/calculadora/calculadora.php
         This is ApacheBench, Version 2.3 <$Revision: 655654 $>
@@ -522,11 +522,11 @@ El tiempo empleado es mayor por lo que no seguimos probando con este tipo de con
     
 Su instalación, es un poco diferente a las ubuntu:
 
--PANTALLAZO 11
+![pantallazo11](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo11.png)
 
--PANTALLAZO 12
+![pantallazo12](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo12.png)
 
--PANTALLAZO 13
+![pantallazo13](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo13.png)
 
 Nos conectamos por ssh e instalamos apache mediante: yum install httpd
 
@@ -594,7 +594,7 @@ y repetimos los pasos tradicionales hasta poder ejecutar a.b:
 Así, que terminadas todas las pruebas, tenemos los siguientes datos:
 
 
--PANTALLAZO ULTIMO
+![pantallazoultimo](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo14.png)
 
 
 La mejor opción, es el sistema operativo Ubuntu server 12.04, con la configuración de 2 núcleos  y 3.7 GB, y si eligieramos la opcion 1 núcleo y 1.75 GB, también es buena, presentando tan buenos resultados, como pueden presentar otras versiones de ubuntu server con 2 núcleos.
