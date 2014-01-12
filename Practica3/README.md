@@ -122,7 +122,7 @@ Y ya sólo falta...
     S.O -> Ubuntu server 12.04
     Configuración: 1 núcleo,  1.75 GB
     
-![pantallazo7](https://dl.github.com/rafaelgonz/Practicas/blob/master/Practica3/pantallazos/pantallazo7.png)
+![pantallazo7](https://raw.github.com/rafaelgonz/Practicas/blob/master/Practica3/pantallazos/pantallazo7.png)
 
 Nos conectamos por ssh, y realizamos lo mismo que en el apartado anterior:
 
