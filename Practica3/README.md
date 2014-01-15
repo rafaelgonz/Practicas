@@ -1,4 +1,4 @@
-##Práctica 3 - Rafael González Jiménez
+##Práctica 3 
 
 ###Prueba de configuraciones de distintas máquinas virtuales, como servidores, y elección de la mejor:
 
