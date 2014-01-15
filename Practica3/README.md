@@ -597,7 +597,7 @@ Time per request (main):
 
 Tiempo total:
 
-![pantallazoultimo](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo14.png)
+![pantallazoultimo](https://dl.dropbox.com/s/27jtl32e07tf118/pantallazo14.png)
 
 
 La mejor opción, es el sistema operativo Ubuntu server 12.04, con la configuración de 2 núcleos  y 3.7 GB, y si eligieramos la opción 1 con núcleo y 1.75 GB, también es buena, presentando tan buenos resultados, como pueden presentar otras versiones de ubuntu server con 2 núcleos.
