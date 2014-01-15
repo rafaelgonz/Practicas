@@ -591,11 +591,16 @@ y repetimos los pasos tradicionales hasta poder ejecutar a.b:
 
 Así, que terminadas todas las pruebas, tenemos los siguientes datos:
 
+Time per request (main):
+
+![pantallazopenultimo](https://dl.dropbox.com/s/h2myeom7tkrk4aq/pantallazo15.png)
+
+Tiempo total:
 
 ![pantallazoultimo](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo14.png)
 
 
-La mejor opción, es el sistema operativo Ubuntu server 12.04, con la configuración de 2 núcleos  y 3.7 GB, y si eligieramos la opcion 1 núcleo y 1.75 GB, también es buena, presentando tan buenos resultados, como pueden presentar otras versiones de ubuntu server con 2 núcleos.
+La mejor opción, es el sistema operativo Ubuntu server 12.04, con la configuración de 2 núcleos  y 3.7 GB, y si eligieramos la opción 1 con núcleo y 1.75 GB, también es buena, presentando tan buenos resultados, como pueden presentar otras versiones de ubuntu server con 2 núcleos.
 
 
 
