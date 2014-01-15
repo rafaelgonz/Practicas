@@ -33,6 +33,7 @@ Dicho esto, la batería de pruebas es la siguiente:
 
 * Sistema Operativo: Ubuntu server 13.10
 * Configuración: 1 núcleo,  1.75 GB
+
     
 
 ![pantallazo1](https://dl.dropbox.com/s/slczqwql5e7bhpb/pantallazo1.png)
