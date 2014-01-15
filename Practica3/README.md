@@ -31,8 +31,8 @@ Dicho esto, la batería de pruebas es la siguiente:
 
 ###1º PRUEBA
 
-    S.O -> Ubuntu server 13.10
-    Configuración: 1 núcleo,  1.75 GB
+* Sistema Operativo: Ubuntu server 13.10
+* Configuración: 1 núcleo,  1.75 GB
     
 
 ![pantallazo1](https://dl.dropbox.com/s/slczqwql5e7bhpb/pantallazo1.png)
@@ -117,9 +117,8 @@ Y ya sólo falta...
 
 ###2º PRUEBA
 
-
-    S.O -> Ubuntu server 12.04
-    Configuración: 1 núcleo,  1.75 GB
+* S.O -> Ubuntu server 12.04
+* Configuración: 1 núcleo,  1.75 GB
     
 ![pantallazo7](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo7.png)
 
@@ -194,8 +193,8 @@ Hasta ahora, los tiempos han sido mejores los de ubuntu 12.04, así que vamos a 
 ###3º PRUEBA
 
         
-    S.O -> Ubuntu server 12.10
-    Configuración: 1 núcleo,  1.75 GB
+* Sistema Operativo: Ubuntu server 12.10
+* Configuración: 1 núcleo,  1.75 GB
     
         azureuser@ivubuntu3:~/Practicas/Practica2$ ab -n 1000 -c 5 http://127.0.0.1/calculadora/calculadora.php
         This is ApacheBench, Version 2.3 <$Revision: 655654 $>
@@ -257,8 +256,8 @@ Hasta ahora, los tiempos han sido mejores los de ubuntu 12.04, así que vamos a 
 ###4º PRUEBA
     
     
-    S.O -> Ubuntu server 13.04
-    Configuración: 1 núcleo,  1.75 GB
+* Sistema operativo: Ubuntu server 13.04
+* Configuración: 1 núcleo,  1.75 GB
             
         
         azureuser@ivubuntu5:~/Practicas/Practica2$  ab -n 1000 -c 5 http://127.0.0.1/calculadora/calculadora.php
@@ -321,8 +320,8 @@ Hasta ahora, los tiempos han sido mejores los de ubuntu 12.04, así que vamos a 
 ###5º PRUEBA
 
     
-    S.O -> Ubuntu server 12.04
-    Configuración: 2 núcleos,  3.75 GB
+* Sistema Operativo: Ubuntu server 12.04
+* Configuración: 2 núcleos,  3.75 GB
     
 ![pantallazo9](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo9.png)
 
@@ -384,8 +383,8 @@ Hasta ahora, los tiempos han sido mejores los de ubuntu 12.04, así que vamos a 
 
 ###PRUEBA 6º
 
-    S.O -> Ubuntu server 12.04
-    Configuración: núcleo compartido,  0.75 GB
+* Sistema operativo: Ubuntu server 12.04
+* Configuración: núcleo compartido,  0.75 GB
     
 ![pantallazo10](https://raw2.github.com/rafaelgonz/Practicas/master/Practica3/pantallazos/pantallazo10.png)
 
@@ -450,8 +449,8 @@ El tiempo empleado es mayor por lo que no seguimos probando con este tipo de con
 
 ###6º PRUEBA
     
-    S.O -> Ubuntu server 13.04
-    Configuración: 2 núcleos,  3.75 GB
+* Sistema operativo: Ubuntu server 13.04
+* Configuración: 2 núcleos,  3.75 GB
     
     
         azureuser@ivubuntu7:~/Practicas/Practica2$ ab -n 1000 -c 5 http://127.0.0.1/calculadora/calculadora.php
@@ -515,8 +514,8 @@ El tiempo empleado es mayor por lo que no seguimos probando con este tipo de con
 
 ###7º PRUEBA
 
-    S.O -> centOS
-    Configuración: 2 núcleos,  3.75 GB
+* Sistema Operativo: centOS
+* Configuración: 2 núcleos,  3.75 GB
     
 Su instalación, es un poco diferente a las ubuntu:
 
