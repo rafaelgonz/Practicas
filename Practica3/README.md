@@ -11,14 +11,18 @@ Hemos ejecutado la aplicación que  utilizamos en la pasada práctica, que se pu
 
 Y para la configuración de las mismas, hemos realizado lo siguiente:
 
-    1. Instalar apache: sudo apt-get install apache2
-    2. Instalar git: sudo apt-get install git
-    3. Clonar repositorio con web: git clone git://github.com/rafaelgonz/Practicas
-    4. Mover la carpeta calculadora a /var/www con: sudo mv calculadora /var/www/
-    5. Ejecutar apache benchmark con el siguiente comando:
-        ab -n 1000 -c 5 http://127.0.0.1/calculadora/calculadora.php
+1. Instalar apache: sudo apt-get install apache2
 
-    De modo que se solicitará la página 1000 veces de 5 en 5
+2. Instalar git: sudo apt-get install git
+
+3. Clonar repositorio con web: git clone git://github.com/rafaelgonz/Practicas
+
+4. Mover la carpeta calculadora a /var/www con: sudo mv calculadora /var/www/
+
+5. Ejecutar apache benchmark con el siguiente comando:
+    ab -n 1000 -c 5 http://127.0.0.1/calculadora/calculadora.php
+
+De modo que se solicitará la página 1000 veces de 5 en 5
 
 
 Dicho esto, la batería de pruebas es la siguiente:
